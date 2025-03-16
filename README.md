@@ -39,6 +39,7 @@ I love building **seamless** applications that integrate **AI** and **modern tec
 ---
 
 ## 🏆 Certifications  
+*Click badge image to verify badge*
 <p>
   <a href="https://www.credly.com/badges/f6dc8d20-1e3d-486b-bd1f-22801e805fa2">
     <img width="150px" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified">
