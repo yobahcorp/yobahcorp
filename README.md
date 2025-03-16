@@ -1,48 +1,98 @@
-<!--
-**yobahcorp/yobahcorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+**yobahcorp/yobahcorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
-## Hi there 👋
+# 👋 Hi there, I'm Yobah Bertrand Yonkou!  
 
-I am Yobah Bertrand Yonkou, passionate about software development 💻, particularly mobile 📱 and web 🌐 development. I am especially fascinated by software integration—making applications work seamlessly 🔗—and exploring the integration of AI 🤖 into software.
+🚀 **Software Developer** | 💡 Passionate about **Mobile & Web Development** | 🤖 **AI & Software Integration Enthusiast**  
 
-### 🔭 I’m currently working on:  
-- An instant messaging application that uses Gen AI to enable people to chat in any language without worrying about the recipient’s language 🗣️🤖
-- A Flutter package for a multilingual custom keyboard ⌨️ -- Next on my schedule
+I love building **seamless** applications that integrate **AI** and **modern technologies** to solve real-world problems!  
 
-### 🌱 I’m currently learning:  
-- Deepening my skills in Power BI 📊  
-- Keeping myself updated with Terraform and AWS ☁️  
-- Exploring software engineering academically 🎓 
+---
 
-### 👯 I’m looking to collaborate on:  
-- AI-powered software solutions 🤖  
-- Web and mobile app development projects 📱  
-- Open-source projects related to software integration 🔄  
+## 🔭 Currently Working On  
+- **🌍 Instant Messaging App with Gen AI** – Enables users to chat in any language without worrying about the recipient’s language. 🗣️🤖
+<!--
+- **⌨️ Flutter Custom Keyboard Package** – Multilingual support for better user experience.  
+-->
+---
+<!--
+## 🌱 Currently Learning  
+- **📊 Power BI** – Enhancing my data visualization skills.  
+- **☁️ AWS & Terraform** – Keeping up with cloud & infrastructure automation.  
+- **🎓 Software Engineering** – Exploring advanced concepts academically.  
 
-### 💬 Ask me about:    
-- Cloud infrastructure (AWS, Terraform) ☁️  
-- Mobile and web app development 📲  
+---
 
-### 📫 How to reach me:  
-- 📩 [yobahcorp@gmail.com]  
-- 🔗 [https://linkedin.com/in/yobah]  
-- 🖥️ [https://github.com/yobahcorp]  
+## 👯 Looking to Collaborate On  
+- **🤖 AI-powered software solutions**  
+- **📱 Web & Mobile app development**  
+- **🔄 Software integration & automation**  
 
-## Programming Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
+-->
+
+## 💬 Ask Me About  
+- ☁️ **Cloud Infrastructure (AWS, Terraform)**  
+- 📲 **Mobile & Web Development**  
+
+---
+
+# 🏆 Certifications  
+<p>
+  <a href="https://www.credly.com/badges/f6dc8d20-1e3d-486b-bd1f-22801e805fa2">
+    <img width="150px" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified">
+  </a>
+  <a href="https://www.credly.com/badges/cfa04ca1-c455-4850-a325-946af389d4ea">
+    <img width="150px" src="https://images.credly.com/size/680x680/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" alt="Terraform Certified">
+  </a>
+</p>
+
+---
+
+# 👨‍💻 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+
+---
+
+# 🌐 Web Development  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+
+---
+
+# ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
+
+---
+
+# 📱 Mobile Development  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+
+---
+
+# 📊🤖 Data & Machine Learning  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+
+---
+
+🚀 **Let’s connect and build something amazing together!**  
