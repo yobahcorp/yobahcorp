@@ -38,7 +38,7 @@ I love building **seamless** applications that integrate **AI** and **modern tec
 
 ---
 
-# 🏆 Certifications  
+## 🏆 Certifications  
 <p>
   <a href="https://www.credly.com/badges/f6dc8d20-1e3d-486b-bd1f-22801e805fa2">
     <img width="150px" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified">
@@ -50,7 +50,7 @@ I love building **seamless** applications that integrate **AI** and **modern tec
 
 ---
 
-# 👨‍💻 Programming Languages  
+## 👨‍💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -59,7 +59,7 @@ I love building **seamless** applications that integrate **AI** and **modern tec
 
 ---
 
-# 🌐 Web Development  
+## 🌐 Web Development  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -70,19 +70,19 @@ I love building **seamless** applications that integrate **AI** and **modern tec
 
 ---
 
-# ☁️ Cloud & DevOps  
+## ☁️ Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
 
 ---
 
-# 📱 Mobile Development  
+## 📱 Mobile Development  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 
 ---
 
-# 📊🤖 Data & Machine Learning  
+## 📊🤖 Data & Machine Learning  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
