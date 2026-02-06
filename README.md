@@ -34,7 +34,8 @@ I love building **seamless** applications that integrate **AI** and **modern tec
 
 ## 💬 Ask Me About  
 - ☁️ **Cloud Infrastructure (AWS, Terraform)**  
-- 📲 **Mobile & Web Development**  
+- 📲 **Mobile & Web Development**
+- 📊 **Artificial Intelligence**
 
 ---
 
